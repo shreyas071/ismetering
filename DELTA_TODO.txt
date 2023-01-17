@@ -1,0 +1,6 @@
+
+# ALL JIRAS SHOULD BE MENTIONED HERE:
+-------------------------------------
+
+[ISME-8358]
+.\delta\ddl\tables\1_63_2_M_2_REPORT_DATA.SQL
